@@ -113,8 +113,8 @@ Despite the obstacles, the Team overcame some of them and the challenge is curre
 
 We extend our gratitude to the Zuri Team.
 
-- LINKS TO RESOURCES
-- GitHub repository **
+  LINKS TO RESOURCES
+- [Th GitHub Repo](https://github.com/zuri-training/Team-Monkey2w)
 - [The Project Details](https://drive.google.com/file/d/1po_x3iIcoeOn_5UO5UV6vdMePbsRW1Bl/view?usp=share_link)
 - [Figma Account (View Only)](https://www.figma.com/team_invite/redeem/BXUH1OXCVxQmOaDvqjHFB9)
 - [Survey Questionnaire link](https://docs.google.com/forms/d/e/1FAIpQLSeFO3LgTXGbEtuE8tzsKTR37YDhEG94LtWmBGi-WCfs01rycg/viewform?usp=share_link)
