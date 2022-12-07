@@ -1,6 +1,6 @@
 
 @@ -1,10 +1,122 @@
-# myDeptors
+# My_Deptors Web Application
 ## Idea Brief 
    My_debtor web application is a finance management and an academic growth platform that deals with taking records of each student’s directory so as to keep track of students who are in debt and preventing them from moving to another school whilst still being indebted to their former schools. This is for schools in the same locality. 
 
