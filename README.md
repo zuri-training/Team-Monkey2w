@@ -118,6 +118,6 @@ We extend our gratitude to the Zuri Team.
 - [The Project Details](https://drive.google.com/file/d/1po_x3iIcoeOn_5UO5UV6vdMePbsRW1Bl/view?usp=share_link)
 - [Figma Account (View Only)](https://www.figma.com/team_invite/redeem/BXUH1OXCVxQmOaDvqjHFB9)
 - [Survey Questionnaire link](https://docs.google.com/forms/d/e/1FAIpQLSeFO3LgTXGbEtuE8tzsKTR37YDhEG94LtWmBGi-WCfs01rycg/viewform?usp=share_link)
-- [Membership list **](https://drive.google.com/file/d/13vjpYEjU_dqYURHWNUitdIsAi-9VsS6f/view?usp=share_link)
+- [Membership list](https://drive.google.com/file/d/13vjpYEjU_dqYURHWNUitdIsAi-9VsS6f/view?usp=share_link)
 - [Meeting Recording](https://drive.google.com/drive/folders/1P8N1aN9_YUoQ6BAlhf8V7zuc28SIh7ei?usp=share_link)
 - [Design Sketch](https://drive.google.com/file/d/1fucsOu9sYBnG3XTeIeAqv05i71KRkKvu/view?usp=share_link)
